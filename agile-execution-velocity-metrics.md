@@ -72,21 +72,6 @@ To prevent architectural bottlenecks during active sprints, cross-team technical
   }
 }
 
-🧪 PHASE 1             🛡️ PHASE 2             🌊 PHASE 3
-┌───────────────────┐  ┌───────────────────┐  ┌───────────────────┐
-│ Alpha Pilot Group │ ➔│ Scheduled Waves   │ ➔│ Mandated Cutover │
-│ (Low-Risk Tiers)  │  │ (Medium Density)  │  │ (Legacy Deprecate)│
-└───────────────────┘  └───────────────────┘  └───────────────────┘
-
-### Rollout Lifecycle Phases:
-1. **Phase 1: Alpha Pilot (Weeks 1–4):** Onboard non-critical internal applications to validate API routing limits, collect raw feedback logs, and optimize developer documentation.
-2. **Phase 2: Scheduled Waves (Weeks 5–12):** Group internal business application groups into risk-managed migration waves. Provide dedicated support channels and automated migration scripts to accelerate velocity.
-3. **Phase 3: Mandated Cutover (Weeks 13–16):** Fully deprecate the old monolithic channels, lock read-write permissions on legacy instances, and migrate remaining long-tail systems to the new environment.
-
----
-
-## 📢 Developer Enablement & Incentives
-To reduce friction and drive fast platform adoption, user-facing materials are organized into self-service enablement assets:
 
 * **Automated Upgrade Tooling:** Build automated code mapping utilities that scan legacy applications and automatically update dependency paths to point to the new gateway layout.
 * **Self-Service Developer Portals:** Publish comprehensive getting-started guides, interactive API playgrounds, and pre-configured sample projects to drastically lower the barrier to entry.
