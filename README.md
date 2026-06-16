@@ -37,5 +37,13 @@ This repository documents the entire lifecycle of a platform product, moving sys
 | **Agile & Rollout** | Epic Refinement • Technical Acceptance Criteria • Risk-Managed Phased Rollouts • Enablement Loops |
 | **Growth & Analytics** | AARRR Funnel Optimization • Time-to-First-Token Latency Tracking • A/B Testing ($H_1$/$H_0$ Hypotheses) |
 
+### 📈 Phase 4: Advanced Product Operations & Commercialization
+*   **[Product Analytics Instrumentation & Tracking Taxonomy](./product-analytics-event-taxonomy.md)**  
+    *Designing Object-Action event logging models and rich JSON telemetry schemas to measure Time-to-First-Token (TTFT) performance.*
+*   **[B2B Platform Pricing, Packaging & Monetization Strategy](./platform-pricing-packaging-strategy.md)**  
+    *Structuring a value-based three-tier commercial model balancing free tiers with metered usage parameters and enterprise SLAs.*
+*   **[Enterprise AI Product Governance & Trust Guardrails](./ai-product-governance-guardrails.md)**  
+    *Engineering an architectural AI Trust Layer handling real-time input filtering, structural PII masking, and semantic caching cost controls.*
+
 ---
 *This repository is continuously maintained to document structural frameworks, product strategy execution vectors, and modern enterprise product playbooks.*
