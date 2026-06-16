@@ -1,4 +1,3 @@
-```markdown
 # B2B Platform Pricing, Packaging, and Monetization Models 💰
 
 An effective product strategy requires a robust commercial framework. This document outlines the value-based packaging structure engineered to monetize our platform engine across diverse enterprise business segments.
