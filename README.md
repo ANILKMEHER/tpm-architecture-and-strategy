@@ -1,49 +1,50 @@
-# Technical Product Management (TPM) Architecture & Strategy 🏗️
+# Technical Product Management: Architecture & Strategy Portfolio 🚀
 
-Welcome to my Technical Product Management portfolio repository. This space acts as a living strategic blueprint showcasing how complex platform infrastructure, enterprise cloud modernizations, and Applied AI lifecycles are translated into highly structured, customer-centric product discoveries, roadmaps, and agile execution engines.
-
----
-
-## 📈 Core TPM Framework Pipeline (Main Branch)
-
-This repository documents the entire lifecycle of a platform product, moving systematically from initial customer empathy and discovery through to technical execution, go-to-market strategy, and data-driven growth tracking.
-
-### 🎨 Phase 1: Product Discovery & User Empathy
-*   **[Design Thinking & Double Diamond Model](./design-thinking-double-diamond.md)**  
-    *Mapping the developer friction lifecycle, building user empathy frameworks, and defining cross-functional opportunities for internal engineering platforms.*
-
-### 📝 Phase 2: Requirements Architecture & Vision
-*   **[Technical Product Requirement Document (PRD) Blueprint](./enterprise-tech-prd-template.md)**  
-    *A production-ready, agile PRD template outlining scope boundaries, scale parameters, and strict non-functional requirements (NFRs) for cloud infrastructure components.*
-*   **[Amazon Working Backward PR/FAQ Framework](./amazon-working-backward-prfaq.md)**  
-    *An innovation-driven mockup containing a customer-centric public launch Press Release and an aggressive internal FAQ handling systemic edge cases.*
-
-### 🏃‍♂️ Phase 3: Technical Execution & Scaling Strategy
-*   **[Agile Execution & Platform Velocity Metrics](./agile-execution-velocity-metrics.md)**  
-    *Structuring technical epics, detailing engineering acceptance criteria, mapping upstream cross-team dependencies, and tracking sprint stability metrics.*
-*   **[Go-To-Market (GTM) & Developer Adoption Playbook](./platform-gtm-adoption-strategy.md)**  
-    *A commercialization roadmap implementing risk-managed rollout waves, automated migration tooling, and self-service enablement models to eliminate cutover downtime.*
-*   **[Product Growth Analytics & AARRR Pirate Metrics](./product-growth-pirate-metrics.md)**  
-    *Instrumenting an analytical platform funnel to track Time-to-First-Token activation, user retention ratios, and executing scientific hypothesis A/B testing.*
+Welcome to my centralized repository for Technical Product Management (TPM) strategy, enterprise architecture frameworks, and product execution methodologies. This space bridges the gap between complex software engineering landscapes and commercial product management leadership.
 
 ---
 
-## 📐 Strategic Product Competencies
+## 🗺️ Portfolio Table of Contents
 
-| Competency Pillar | Applied Frameworks & Methodologies |
-| :--- | :--- |
-| **Discovery & Framing** | Double Diamond • User Journey Lifecycles • Empathy Mapping • Friction Identification |
-| **Technical Definition** | API Contract Scoping • System Availability NFRs • Scalability Matrices • Architectural Constraint Mapping |
-| **Agile & Rollout** | Epic Refinement • Technical Acceptance Criteria • Risk-Managed Phased Rollouts • Enablement Loops |
-| **Growth & Analytics** | AARRR Funnel Optimization • Time-to-First-Token Latency Tracking • A/B Testing ($H_1$/$H_0$ Hypotheses) |
+### 📈 Section 1: Product Strategy, Growth & Go-To-Market
+* **[Go-To-Market (GTM) & Product Lifecycle Strategy](./gtm-and-product-lifecycle-strategy.md)**
+    * *Focus:* Commercialization pillars, enterprise distribution channels, and managing engineering priorities across the product lifecycle stages (Introduction, Growth, Maturity, Decline).
+* **[Customer Segmentation Strategy](./customer-segmentation-strategy.md)**
+    * *Focus:* Targeting enterprise personas using Firmographic, Technographic, Behavioral, and Psychographic lenses to optimize roadmap prioritization.
+* **[Platform Pricing & Positioning Strategy](./platform-pricing-and-positioning-strategy.md)**
+    * *Focus:* Value-based and usage-based monetization frameworks, SaaS psychological pricing mechanics (anchoring, decoys), and structural architectural requirements for metering.
+* **[Product Growth & Pirate Metrics (AARRR)](./product-growth-rate-metrics.md)** / **[AI Framework AARRR](./ai-framework-aarrr.md)**
+    * *Focus:* Optimizing the user funnel from Acquisition to Referral for standard SaaS and AI-driven platforms.
+* **[Platform GTM & Adoption Strategy](./platform-gtm-adoption-strategy.md)**
 
-### 📈 Phase 4: Advanced Product Operations & Commercialization
-*   **[Product Analytics Instrumentation & Tracking Taxonomy](./product-analytics-event-taxonomy.md)**  
-    *Designing Object-Action event logging models and rich JSON telemetry schemas to measure Time-to-First-Token (TTFT) performance.*
-*   **[B2B Platform Pricing, Packaging & Monetization Strategy](./platform-pricing-packaging-strategy.md)**  
-    *Structuring a value-based three-tier commercial model balancing free tiers with metered usage parameters and enterprise SLAs.*
-*   **[Enterprise AI Product Governance & Trust Guardrails](./ai-product-governance-guardrails.md)**  
-    *Engineering an architectural AI Trust Layer handling real-time input filtering, structural PII masking, and semantic caching cost controls.*
+### ⚙️ Section 2: Product Discovery & Execution Frameworks
+* **[Amazon Working Backward PR/FAQ Framework](./amazon-working-backward-prfaq.md)**
+    * *Focus:* Customer-centric product discovery, press release drafting, and internal alignment before writing code.
+* **[Design Thinking & The Double Diamond Model](./design-thinking-double-diamond.md)**
+    * *Focus:* Discovering user pain points, defining core problems, developing solutions, and delivering validated MVPs.
+* **[Agile Execution & Velocity Metrics](./agile-execution-velocity-metrics.md)**
+    * *Focus:* Managing delivery sprint cycles, velocity metrics, and unblocking engineering pipelines.
+* **[Prioritization Frameworks](./prioritization-frameworks.md)**
+
+### 🛡️ Section 3: Enterprise AI, Governance & Architecture
+* **[AI Product Governance & Guardrails](./ai-product-governance-guardrails.md)** / **[Applied AI Guardrails](./applied-ai-guardrails.md)**
+    * *Focus:* Implementing ethical AI structures, safety guardrails, data compliance, and risk mitigation inside enterprise applications.
+* **[Cloud Migration Blueprint](./cloud-migration-blueprint.md)**
+    * *Focus:* Transitioning legacy enterprise systems into scalable, cloud-native architectures with minimal business interruption.
+* **[Technical Debt Management Strategy](./technical-debt-strategy.md)**
+    * *Focus:* Identifying, quantifying, and systematically prioritizing technical debt alongside feature development.
+* **[Enterprise Technical PRD Template](./enterprise-tech-prd-template.md)**
+    * *Focus:* A comprehensive framework for specifying technical product requirements, non-functional attributes, and API documentation standards.
+* **[Product Analytics & Event Taxonomy](./product-analytics-event-taxonomy.md)**
 
 ---
-*This repository is continuously maintained to document structural frameworks, product strategy execution vectors, and modern enterprise product playbooks.*
+
+## 🛠️ Core Philosophical Approach
+
+1.  **Zero-Dependency Architecture:** Standardizing system documentation and product playbooks to eliminate "person-dependency" across global cross-functional teams.
+2.  **Data-Driven Prioritization:** Ensuring engineering resources are aligned with quantifiable customer impact, revenue metrics, and strategic business goals.
+3.  **Governance-First Innovation:** Safely integrating modern automation capabilities (such as Generative AI) inside robust compliance guardrails.
+
+1.  **Zero-Dependency Architecture:** Standardizing system documentation and product playbooks to eliminate "person-dependency" across global cross-functional teams.
+2.  **Data-Driven Prioritization:** Ensuring engineering resources are aligned with quantifiable customer impact, revenue metrics, and strategic business goals.
+3.  **Governance-First Innovation:** Safely integrating modern automation capabilities (such as Generative AI) inside robust compliance guardrails.
